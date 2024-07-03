@@ -1,4 +1,4 @@
-# Serlokas
+# Serlokas404
 
 _website design project_
 
@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://evp8.github.io/sherlokas404/
 
-Design: [Serlokas](https://www.pinterest.com/pin/464293042832100522/)
+Design: [Serlokas404](https://www.pinterest.com/pin/464293042832100522/)
 
 ## 🎯 Project features/goals
 
@@ -42,7 +42,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/EvP8/labirintas
+    git clone https://github.com/EvP8/sherlokas404
     ```
 2. Install NPM packages
     ```sh

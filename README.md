@@ -8,7 +8,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://evp8.github.io/sherlokas404/
 
 Design: [Serlokas](https://www.pinterest.com/pin/464293042832100522/)
 
